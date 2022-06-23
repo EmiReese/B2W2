@@ -1,0 +1,74 @@
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?7afa2e747a01bc74ba8ab02ef8bf7d47") format("truetype"),
+url("./flaticon.woff?7afa2e747a01bc74ba8ab02ef8bf7d47") format("woff"),
+url("./flaticon.woff2?7afa2e747a01bc74ba8ab02ef8bf7d47") format("woff2"),
+url("./flaticon.eot?7afa2e747a01bc74ba8ab02ef8bf7d47#iefix") format("embedded-opentype"),
+url("./flaticon.svg?7afa2e747a01bc74ba8ab02ef8bf7d47#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+	font-size: 1em;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+	
+}
+
+.flaticon-menu:before {
+    content: "\f101";
+}
+.flaticon-close:before {
+    content: "\f102";
+}
+.flaticon-right-arrow:before {
+    content: "\f103";
+}
+.flaticon-arrow-down-sign-to-navigate:before {
+    content: "\f104";
+}
+.flaticon-right-arrow-1:before {
+    content: "\f105";
